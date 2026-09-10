@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [XLANG Lab](https://xlang.ai/), The University of Hong Kong, and a research intern at the Qwen Team, Alibaba Group. My research interest focuses on <span style="color:red">Embodied AI (VLA and WAM)</span>. I received my B.S. in [Computer Science and Technology](http://www.cs.zju.edu.cn/) from Zhejiang University, where I was fortunate to be advised by [Prof. Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ). Feel free to reach out if you are interested in my work or have any questions to discuss!
+I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The University of Hong Kong, advised by [Prof. Tao Yu](https://taoyds.github.io/). I am also a research intern with the World Action Model Team at [X Square Robot](https://x2robot.com/en). My research interests focus on <span style="color:red">Embodied AI, particularly Vision-Language-Action Models (VLAs) and World Action Models (WAMs)</span>. I received my B.S. in [Computer Science and Technology](http://www.cs.zju.edu.cn/) from Zhejiang University, where I was fortunate to be advised by [Prof. Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ). If you are interested in my work or would like to discuss related topics, please feel free to contact me via [email](mailto:xintonghu.erics@gmail.com).
 
 
 
@@ -25,7 +25,7 @@ I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.05*: &nbsp; 🎉🎉 "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies" is released on arXiv.
+- *2026.06*: &nbsp; 🎉🎉 "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies" is released on arXiv.
 - *2026.05*: &nbsp; 🎉🎉 "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments" is released on arXiv.
 - *2025.09*: &nbsp; 🎉🎉 "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations" is accepted by NeurIPS2025.
 - *2025.09*: &nbsp; 🎉🎉 "Tree of Preferences for Diversified Recommendation" is accepted by NeurIPS2025.
@@ -140,8 +140,9 @@ I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [
 
 <span class='anchor' id='educations'></span>
 
-# 📖 Educations
-- *2022.09 - Now*, *B.S.* Zhejiang University, School of Computer Science and Technology. 
+# 📖 Education
+- *2026.09 - Present*, *Ph.D.*, The University of Hong Kong, School of Computer and Data Science.
+- *2022.09 - 2026.06*, *B.S.*, Zhejiang University, School of Computer Science and Technology.
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
@@ -152,23 +153,17 @@ I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [
 
 # 💻 Internships
 
-**Alibaba Group, Qwen Team (Hangzhou)**
-*Research Intern* (01/2026 -- Present)  
-Advisor: Shuai Bai  
+**World Action Model Team, [X Square Robot](https://x2robot.com/en)**<br>
+*Research Intern* (09/2026 -- Present)<br>
+Advisor: [Xiaofan Li](https://shalfun.github.io/)<br>
+Research Topic: **World Action Models (WAMs)**
+
+**Alibaba Group, Qwen Team (Hangzhou)**<br>
+*Research Intern* (01/2026 -- 09/2026)<br>
+Advisor: Shuai Bai<br>
 Research Topic: **Vision-Language-Action (VLA)**
 
-**[XLANG NLP Lab, The University of Hong Kong](https://xlang.ai) (Hong Kong)**
-*Research Assistant* (06/2025 -- Present)  
-Advisor: Prof. Tao Yu  
-Research Topic: **Embodied AI**
-
-**YiWise Lab, Zhejiang University (Hangzhou)**
-*Research Assistant* (02/2025 -- 06/2025)  
-Advisor: Prof. Zhou Zhao  
-Research Topic: **Spatial Audio**
-
-**[VIPA Lab, Zhejiang University](https://www.vipazoo.cn/) (Hangzhou)**
-*Research Assistant* (07/2024 -- 02/2025)  
-Advisor: Prof. Mingli Song  
-Research Topic: **Recommendation**
-
+<hr>
+<div class="page__meta" style="text-align: right;">
+  <p>Last updated: September 10, 2026</p>
+</div>
