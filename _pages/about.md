@@ -126,6 +126,22 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 </div>
 
 
+<span class='anchor' id='projects'></span>
+
+# 🛠 Projects
+
+<div class="project-entry">
+  <div class="project-entry__visual">
+    <img src="images/qwen-logo.png" alt="Qwen logo">
+  </div>
+  <div class="project-entry__content" markdown="1">
+  **Verifiable Coding Data and Rollout Pipeline for [Qwen3.8 / Qwen3.9](https://qwen.ai/blog?id=qwen3.8)**
+
+  Contributed to Qwen3.8 and Qwen3.9 by designing and building an end-to-end pipeline that transforms real-world IDE assistant interaction logs into reproducible and verifiable coding tasks for model training. The pipeline mines challenging multi-turn cases, reconstructs paired buggy and resolved repository states, generates executable test patches, and validates them through a bidirectional test gate that must fail on the buggy state and pass on the resolved state. It further applies anti-overfitting checks, builds reproducible containerized environments, and evaluates model rollouts with hidden tests to produce reliable accept/reject-labeled multimodal SFT trajectories.
+  </div>
+</div>
+
+
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
@@ -183,9 +199,9 @@ Research Topic: **World Action Models (WAMs)**
 
 <div class="institution-entry">
   <div class="institution-entry__content" markdown="1">
-**Alibaba Group, Qwen Team (Hangzhou)**<br>
+**Alibaba Group, [Qwen-VL Team](https://github.com/QwenLM/Qwen-VL)**<br>
 *Research Intern* (01/2026 -- 09/2026)<br>
-Advisor: Shuai Bai<br>
+Advisor: [Shuai Bai](https://shuaibai623.github.io/)<br>
 Research Topic: **Vision-Language-Action (VLA)**
   </div>
   <div class="institution-entry__logo institution-entry__logo--qwen">

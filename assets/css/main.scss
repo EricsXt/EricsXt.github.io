@@ -159,6 +159,48 @@
     }
 }
 
+.project-entry {
+    display: grid;
+    grid-template-columns: 112px minmax(0, 1fr);
+    align-items: center;
+    gap: 2em;
+    padding: 1.25em 0 1.75em;
+    border-bottom: 1px solid $border-color;
+
+    .project-entry__visual {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+            display: block;
+            width: 100%;
+            max-width: 96px;
+            max-height: 84px;
+            object-fit: contain;
+            box-shadow: none;
+        }
+    }
+
+    .project-entry__content {
+        min-width: 0;
+
+        p:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    @include breakpoint(max-width $small) {
+        grid-template-columns: 68px minmax(0, 1fr);
+        gap: 1em;
+
+        .project-entry__visual img {
+            max-width: 60px;
+            max-height: 54px;
+        }
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
