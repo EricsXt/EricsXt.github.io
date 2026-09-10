@@ -190,6 +190,42 @@
         }
     }
 
+    .project-details {
+        margin-top: 0.65em;
+
+        summary {
+            display: inline-flex;
+            align-items: center;
+            color: $link-color;
+            font-family: $sans-serif;
+            font-weight: bold;
+            cursor: pointer;
+            list-style: none;
+
+            &::-webkit-details-marker {
+                display: none;
+            }
+
+            &::before {
+                content: "\25B8";
+                margin-right: 0.45em;
+                transition: transform 0.15s ease;
+            }
+
+            &:hover {
+                color: $link-color-hover;
+            }
+        }
+
+        &[open] summary::before {
+            transform: rotate(90deg);
+        }
+
+        p {
+            margin-top: 0.8em;
+        }
+    }
+
     @include breakpoint(max-width $small) {
         grid-template-columns: 68px minmax(0, 1fr);
         gap: 1em;
