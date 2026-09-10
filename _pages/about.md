@@ -141,8 +141,24 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 <span class='anchor' id='educations'></span>
 
 # 📖 Education
-- *2026.09 - Present*, *Ph.D.*, The University of Hong Kong, School of Computer and Data Science.
-- *2022.09 - 2026.06*, *B.S.*, Zhejiang University, School of Computer Science and Technology.
+
+<div class="institution-entry">
+  <div class="institution-entry__content">
+    <em>2026.09 - Present</em>, <em>Ph.D.</em>, The University of Hong Kong, School of Computer and Data Science.
+  </div>
+  <div class="institution-entry__logo institution-entry__logo--seal">
+    <img src="images/hku-logo.png" alt="The University of Hong Kong logo">
+  </div>
+</div>
+
+<div class="institution-entry">
+  <div class="institution-entry__content">
+    <em>2022.09 - 2026.06</em>, <em>B.S.</em>, Zhejiang University, School of Computer Science and Technology.
+  </div>
+  <div class="institution-entry__logo institution-entry__logo--seal">
+    <img src="images/zju-logo.png" alt="Zhejiang University logo">
+  </div>
+</div>
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
@@ -153,15 +169,29 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 
 # 💻 Internships
 
+<div class="institution-entry">
+  <div class="institution-entry__content" markdown="1">
 **World Action Model Team, [X Square Robot](https://x2robot.com/en)**<br>
 *Research Intern* (09/2026 -- Present)<br>
 Advisor: [Xiaofan Li](https://shalfun.github.io/)<br>
 Research Topic: **World Action Models (WAMs)**
+  </div>
+  <a class="institution-entry__logo" href="https://x2robot.com/en" aria-label="Visit X Square Robot">
+    <img src="images/x-square-robot-logo.png" alt="X Square Robot logo">
+  </a>
+</div>
 
+<div class="institution-entry">
+  <div class="institution-entry__content" markdown="1">
 **Alibaba Group, Qwen Team (Hangzhou)**<br>
 *Research Intern* (01/2026 -- 09/2026)<br>
 Advisor: Shuai Bai<br>
 Research Topic: **Vision-Language-Action (VLA)**
+  </div>
+  <div class="institution-entry__logo institution-entry__logo--qwen">
+    <img src="images/qwen-logo.png" alt="Qwen logo">
+  </div>
+</div>
 
 <hr>
 <div class="page__meta" style="text-align: right;">
