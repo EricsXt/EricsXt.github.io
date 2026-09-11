@@ -223,12 +223,20 @@
             transform: rotate(90deg);
         }
 
-        p {
-            margin-top: 0.8em;
+        .project-details__layout {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+            align-items: start;
+            gap: 1.5em;
+            margin-top: 1.25em;
+
+            p {
+                margin: 0;
+            }
         }
 
         .project-details__figure {
-            margin: 1.25em 0 0;
+            margin: 0;
 
             img {
                 display: block;
@@ -252,6 +260,10 @@
 
         .project-details summary {
             margin-left: calc(68px + 1em);
+        }
+
+        .project-details__layout {
+            grid-template-columns: 1fr;
         }
     }
 }

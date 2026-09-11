@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The University of Hong Kong, advised by [Prof. Tao Yu](https://taoyds.github.io/). I am also a research intern with the World Action Model Team at [X Square Robot](https://x2robot.com/en). My research interests focus on <span style="color:red">Embodied AI, particularly Vision-Language-Action Models (VLAs) and World Action Models (WAMs)</span>. I received my B.S. in [Computer Science and Technology](http://www.cs.zju.edu.cn/) from Zhejiang University, where I was fortunate to be advised by [Prof. Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ). If you are interested in my work or would like to discuss related topics, please feel free to contact me via [email](mailto:xintonghu.erics@gmail.com).
+I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The University of Hong Kong, advised by [Prof. Tao Yu](https://taoyds.github.io/). I am also a research intern with the World Action Model Team at [X Square Robot](https://x2robot.com/en). My research interests focus on <span style="color:red">Embodied AI, particularly Vision-Language-Action Models (VLAs) and World Action Model (WAM)</span>. I received my B.S. in [Computer Science and Technology](http://www.cs.zju.edu.cn/) from Zhejiang University, where I was fortunate to be advised by [Prof. Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ). If you are interested in my work or would like to discuss related topics, please feel free to contact me via [email](mailto:xintonghu.erics@gmail.com).
 
 
 
@@ -139,10 +139,12 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
   </div>
   <details class="project-details">
     <summary>Details</summary>
-    <figure class="project-details__figure">
-      <img src="images/qwen-coding-pipeline.png" alt="Pipeline from real IDE logs to test-grounded SFT data" loading="lazy" decoding="async">
-    </figure>
-    <p>Contributed to Qwen3.8 and Qwen3.9 by designing and building an end-to-end pipeline that transforms real-world IDE assistant interaction logs into reproducible and verifiable coding tasks for model training. The pipeline mines challenging multi-turn cases, reconstructs paired buggy and resolved repository states, generates executable test patches, and validates them through a bidirectional test gate that must fail on the buggy state and pass on the resolved state. It further applies anti-overfitting checks, builds reproducible containerized environments, and evaluates model rollouts with hidden tests to produce reliable accept/reject-labeled multimodal SFT trajectories.</p>
+    <div class="project-details__layout">
+      <figure class="project-details__figure">
+        <img src="images/qwen-coding-pipeline.png" alt="Pipeline from real IDE logs to test-grounded SFT data" loading="lazy" decoding="async">
+      </figure>
+      <p>Contributed to Qwen3.8 and Qwen3.9 by designing and building an end-to-end pipeline that transforms real-world IDE assistant interaction logs into reproducible and verifiable coding tasks for model training. The pipeline mines challenging multi-turn cases, reconstructs paired buggy and resolved repository states, generates executable test patches, and validates them through a bidirectional test gate that must fail on the buggy state and pass on the resolved state. It further applies anti-overfitting checks, builds reproducible containerized environments, and evaluates model rollouts with hidden tests to produce reliable accept/reject-labeled multimodal SFT trajectories.</p>
+    </div>
   </details>
 </div>
 
@@ -195,7 +197,7 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 **World Action Model Team, [X Square Robot](https://x2robot.com/en)**<br>
 *Research Intern* (09/2026 -- Present)<br>
 Advisor: [Xiaofan Li](https://shalfun.github.io/)<br>
-Research Topic: **World Action Models (WAMs)**
+Research Topic: **World Action Model (WAM)**
   </div>
   <a class="institution-entry__logo" href="https://x2robot.com/en" aria-label="Visit X Square Robot">
     <img src="images/x-square-robot-logo.png" alt="X Square Robot logo">
