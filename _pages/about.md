@@ -136,12 +136,14 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
   </div>
   <div class="project-entry__content" markdown="1">
   **Verifiable Coding Data and Rollout Pipeline for [Qwen3.8 / Qwen3.9](https://qwen.ai/blog?id=qwen3.8)**
-
+  </div>
   <details class="project-details">
     <summary>Details</summary>
+    <figure class="project-details__figure">
+      <img src="images/qwen-coding-pipeline.png" alt="Pipeline from real IDE logs to test-grounded SFT data" loading="lazy" decoding="async">
+    </figure>
     <p>Contributed to Qwen3.8 and Qwen3.9 by designing and building an end-to-end pipeline that transforms real-world IDE assistant interaction logs into reproducible and verifiable coding tasks for model training. The pipeline mines challenging multi-turn cases, reconstructs paired buggy and resolved repository states, generates executable test patches, and validates them through a bidirectional test gate that must fail on the buggy state and pass on the resolved state. It further applies anti-overfitting checks, builds reproducible containerized environments, and evaluates model rollouts with hidden tests to produce reliable accept/reject-labeled multimodal SFT trajectories.</p>
   </details>
-  </div>
 </div>
 
 
@@ -214,5 +216,5 @@ Research Topic: **Vision-Language-Action (VLA)**
 
 <hr>
 <div class="page__meta" style="text-align: right;">
-  <p>Last updated: September 10, 2026</p>
+  <p>Last updated: September 11, 2026</p>
 </div>
