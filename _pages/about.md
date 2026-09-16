@@ -218,5 +218,5 @@ Research Topic: **Vision-Language-Action (VLA)**
 
 <hr>
 <div class="page__meta" style="text-align: right;">
-  <p>Last updated: September 11, 2026</p>
+  <p>Last updated: September 16, 2026</p>
 </div>
