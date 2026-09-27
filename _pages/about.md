@@ -25,12 +25,11 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.09*: &nbsp; 🎉🎉 FineVLA is accepted by <strong style="color: black;">NeurIPS2026</strong>.
-- *2026.06*: &nbsp; 🎉🎉 "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies" is released on arXiv.
-- *2026.05*: &nbsp; 🎉🎉 "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments" is released on arXiv.
-- *2025.09*: &nbsp; 🎉🎉 "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations" is accepted by NeurIPS2025.
-- *2025.09*: &nbsp; 🎉🎉 "Tree of Preferences for Diversified Recommendation" is accepted by NeurIPS2025.
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.09*: &nbsp; FineVLA is accepted by <strong style="color: black;">NeurIPS2026</strong>.
+- *2026.05*: &nbsp; Qwen-VLA is released on arXiv.
+- *2025.09*: &nbsp; "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations" is accepted by <strong style="color: black;">NeurIPS2025</strong>.
+- *2025.09*: &nbsp; "Tree of Preferences for Diversified Recommendation" is accepted by <strong style="color: black;">NeurIPS2025</strong>.
+<!-- - *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <span class='anchor' id='publications'></span>
 
