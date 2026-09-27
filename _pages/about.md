@@ -26,7 +26,7 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 
 # 🔥 News
 - *2026.09*: &nbsp; FineVLA is accepted by <strong style="color: black;">NeurIPS2026</strong>.
-- *2026.05*: &nbsp; Qwen-VLA is released on arXiv.
+- *2026.05*: &nbsp; Qwen-VLA is released on arXiv. I am a <strong style="color: black;">core contributor</strong>.
 - *2025.09*: &nbsp; "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations" is accepted by <strong style="color: black;">NeurIPS2025</strong>.
 - *2025.09*: &nbsp; "Tree of Preferences for Diversified Recommendation" is accepted by <strong style="color: black;">NeurIPS2025</strong>.
 <!-- - *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
