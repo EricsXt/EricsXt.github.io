@@ -198,7 +198,7 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 **Alibaba Group, [Qwen-VL Team](https://github.com/QwenLM/Qwen-VL)**<br>
 *Research Intern* (01/2026 -- 09/2026)<br>
 Advisor: [Shuai Bai](https://shuaibai623.github.io/)<br>
-Research Topic: **Vision-Language-Action (VLA)**
+Research Topic: **Vision-Language-Action (VLA) && VL_Coding**
   </div>
   <div class="institution-entry__logo institution-entry__logo--qwen">
     <img src="images/qwen-logo.png" alt="Qwen logo">
