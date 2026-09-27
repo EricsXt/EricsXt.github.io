@@ -25,6 +25,7 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.09*: &nbsp; 🎉🎉 FineVLA is accepted by <strong style="color: black;">NeurIPS2026</strong>.
 - *2026.06*: &nbsp; 🎉🎉 "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies" is released on arXiv.
 - *2026.05*: &nbsp; 🎉🎉 "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments" is released on arXiv.
 - *2025.09*: &nbsp; 🎉🎉 "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations" is accepted by NeurIPS2025.
@@ -40,7 +41,7 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint 2026</div>
+      <div class="badge">NeurIPS 2026</div>
       <img src='images/FineVLA-main.png' alt="sym" width="100%">
     </div>
   </div>
@@ -63,7 +64,7 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint 2026</div>
+      <div class="badge">Technical Report</div>
       <img src='images/qwen-vla-main.png' alt="sym" width="100%">
     </div>
   </div>
@@ -86,7 +87,7 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS 2025 Poster</div>
+      <div class="badge">NeurIPS 2025</div>
       <img src='images/MRSAudio.jpg' alt="sym" width="100%" style="margin-bottom: 10px;">
       <img src='images/MRSAudio-2.jpg' alt="sym" width="100%">
       </div>
@@ -112,7 +113,7 @@ I am a first-year Ph.D. student at [XLANG Lab](https://xlang.ai/), The Universit
 
 <!-- paper2 ： Tree of Preference  -->
 <div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Poster</div><img src='images/Tree_of_preference.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Tree_of_preference.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   [Tree of Preferences for Diversified Recommendation](https://openreview.net/forum?id=KlZUwDP0pR&noteId=vB7YeUWlGH)
